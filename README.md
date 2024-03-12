@@ -15,7 +15,7 @@ Create from scratch new hugo page structure with [hugo-wrapper](https://github.c
 
     cd lynx
     mkdir -p themes/lynx/
-    curl -L https://github.com/jpanther/lynx/archive/refs/tags/v1.3.1.tar.gz | tar -xz -C themes/hugo-geekdoc/ --strip-components=1
+    curl -L https://github.com/jpanther/lynx/archive/refs/tags/v1.3.1.tar.gz | tar -xz -C themes/lynx/ --strip-components=1
 
 For further details refer to [lynx](https://github.com/jpanther/lynx)
 
