@@ -1,0 +1,29 @@
+languageCode = 'en-us'
+
+theme = "lynx"
+title = "Masima Links"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "MASIMA"
+  headline = "A simple link list"
+  image = "masima.png"
+  links = [
+    #{ link = { href = "styles/", text = "All the link styles", target = "_self" } },
+    { masima = { href = "https://masima.rocks", text = "Masima Rocks", icon = "link" } },
+    { soundcloud = "https://soundcloud.com/masimarocks" },
+    { youtube = "https://youtu.be/Lbzy4AjsbHI?si=ezNHqh6f9oiz0CWb" },
+    #{ font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  color_theme = "dark"

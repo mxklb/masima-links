@@ -1,0 +1,9 @@
+server:
+    container_name: masima-lynx
+    image: klakegg/hugo
+    #command: [server, --watch=false]
+    command: server
+    volumes:
+      - "./lynx:/src"
+    ports:
+      - "1313:1313"
