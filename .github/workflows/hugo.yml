@@ -25,7 +25,7 @@ concurrency:
 defaults:
   run:
     shell: bash
-    working-directory: ./lynx
+    working-directory: lynx
 
 jobs:
   # Build job
