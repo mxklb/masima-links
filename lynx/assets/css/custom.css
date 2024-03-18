@@ -7,3 +7,12 @@
     rgba(252, 176, 69, 1) 100%
   );
 }
+
+main, footer {
+  background-color: #000000;
+}
+
+html {
+  background-color: #000000;
+  font-family:'Courier New', Courier, monospace;
+}
