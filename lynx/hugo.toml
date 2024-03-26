@@ -13,8 +13,8 @@ disableKinds = ["taxonomy", "term"]
   links = [
     #{ link = { href = "styles/", text = "All the link styles", target = "_self" } },
     { masima = { href = "https://masima.rocks", text = "masima.rocks", icon = "link" } },
-    { soundcloud = "https://soundcloud.com/masimarocks" },
-    { youtube = "https://youtu.be/Lbzy4AjsbHI?si=ezNHqh6f9oiz0CWb" },
+    { soundcloud = "https://soundcloud.com/masimarocks" }
+    #{ youtube = "https://youtu.be/Lbzy4AjsbHI?si=ezNHqh6f9oiz0CWb" },
     #{ font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
   ]
 
