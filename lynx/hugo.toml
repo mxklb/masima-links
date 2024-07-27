@@ -7,9 +7,9 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "MASIMA"
+  name = "---"
   headline = ""
-  image = "masima.png"
+  image = "masima.jpeg"
   links = [
     #{ link = { href = "styles/", text = "All the link styles", target = "_self" } },
     { masima = { href = "http://masima.rocks", text = "masima.rocks", icon = "link" } },

@@ -1308,7 +1308,7 @@ video {
 }
 
 .h-36 {
-  height: 9rem;
+  height: 22rem;
 }
 
 .h-full {
@@ -1320,7 +1320,7 @@ video {
 }
 
 .w-36 {
-  width: 9rem;
+  width: 22rem;
 }
 
 .min-w-full {
@@ -1360,7 +1360,7 @@ video {
 }
 
 .rounded-full {
-  border-radius: 9999px;
+  border-radius: 0px;
 }
 
 .px-6 {
